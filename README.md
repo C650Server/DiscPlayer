@@ -54,7 +54,7 @@ Optional system-wide install:
 sudo install -Dm755 discplayer /usr/local/bin/discplayer
 ```
 
-### Build from source
+### Build from source (optional)
 ```bash
 # Ubuntu/Debian: sudo apt install g++ libc6-dev
 # Arch:          sudo pacman -S gcc
