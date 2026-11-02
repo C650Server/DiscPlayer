@@ -127,4 +127,4 @@ discplayer was developed and tested on Ubuntu 24.04 in a pseudo-terminal, using 
 
 ## License
 
-MIT. Add a `LICENSE` file before publishing.
+MIT.
