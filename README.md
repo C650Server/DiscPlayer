@@ -62,7 +62,29 @@ g++ -std=c++17 -O2 -static -o discplayer discplayer.cpp
 ```
 Drop `-static` if you prefer a normal dynamically linked binary.
 
-## Usage
+### Themes
+Aurora:
+![Aurora](Aurora.png)
+
+## Ember:
+![Ember](Ember.png)
+
+## Matrix:
+![Matrix](Matrix.png)
+
+## Ocean:
+![Ocean](Ocean.png)
+
+## Sunset:
+![Sunset](Sunset.png)
+
+## Mono:
+![Mono](Mono.png)
+
+
+
+
+### Usage
 
 ```bash
 discplayer [options] [FILE_OR_DIR ...]     # default: ~/Music
